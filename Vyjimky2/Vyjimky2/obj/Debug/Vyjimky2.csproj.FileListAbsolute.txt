@@ -1,0 +1,10 @@
+G:\prg\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.exe.config
+G:\prg\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.exe
+G:\prg\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.pdb
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csprojAssemblyReference.cache
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.Form1.resources
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.Properties.Resources.resources
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csproj.GenerateResource.cache
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csproj.CoreCompileInputs.cache
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.exe
+G:\prg\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.pdb
